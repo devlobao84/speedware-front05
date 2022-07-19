@@ -18,8 +18,8 @@
 }
 
 .flexRowContent--menu-link {
-  background-color: #03044e;
-  color: #fff;
+  background-color: #FFC147;
+  color: rgb(0, 0, 0);
 }
 
 .flexRowContent--main-header {
@@ -33,17 +33,17 @@
 }
 
 .flexRowContent--menu-link :global(.vtex-menu-2-x-styledLink) {
+  color: #000000;
+  font-size: 16px;
+}
+
+.flexRowContent--main-header :global(.vtex-menu-2-x-styledLink) {
   color: #ffffff;
   font-size: 14px;
 }
 
-.flexRowContent--main-header :global(.vtex-menu-2-x-styledLink) {
-  color: #727273;
-  font-size: 14px;
-}
-
 .flexRow--deals {
-  background-color: #0F3E99;
+  background-color: #000000;
   padding: 14px 0px;
 }
 

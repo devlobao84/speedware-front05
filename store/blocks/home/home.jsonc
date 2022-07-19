@@ -22,7 +22,7 @@
       "preload": true,
       "images": [
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/Class&Style-desktop.png",
+          "image": "https://fase3lobao--speedware.myvtex.com/arquivos/Slide-Home-01-update.png",
           "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/Class&Style-mobile.png"
         },
         {
@@ -47,7 +47,7 @@
 
   "rich-text#shelf-title": {
     "props": {
-      "text": "## Summer",
+      "text": "## Nossos produtos",
       "blockClass": "shelfTitle"
     }
   },
@@ -79,10 +79,10 @@
       "id": "info-card-home",
       "isFullModeStyle": false,
       "textPosition": "left",
-      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "Clearance Sale",
+      "imageUrl": "https://fase3lobao--speedware.myvtex.com/arquivos/banner-infoHome.png",
+      "headline": "Our powerful style of dressing",
       "callToActionText": "DISCOVER",
-      "callToActionUrl": "/sale/d",
+      "callToActionUrl": "https://www.youtube.com/watch?v=reJq32uf-QI",
       "blockClass": "info-card-home",
       "textAlignment": "center"
     }
@@ -90,14 +90,14 @@
 
   "rich-text#question": {
     "props": {
-      "text": "**This is an example store built using the VTEX platform.\nWant to know more?**",
+      "text": "**Don't waste time waiting for a budgie on sale. Seek our eagle and fly higher with low prices!!**",
       "blockClass": "question"
     }
   },
 
   "rich-text#link": {
     "props": {
-      "text": "\n**Reach us at**\nwww.vtex.com.br",
+      "text": "\n**Saiba mais sobre nossas águias**\nwww.vtex.com.br",
       "blockClass": "link"
     }
   }

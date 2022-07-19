@@ -19,8 +19,8 @@
         "type": "internal",
         "href": "/apparel---accessories/",
         "noFollow": false,
-        "tagTitle": "Apparel & Accessories",
-        "text": "Apparel & Accessories"
+        "tagTitle": "Tentamos",
+        "text": "Tentamos pelo menos"
       }
     },
     "blocks": [
@@ -100,8 +100,8 @@
         "type": "internal",
         "href": "/home---decor/",
         "noFollow": false,
-        "tagTitle": "Home & Decor",
-        "text": "Home & Decor"
+        "tagTitle": "valeu a pena",
+        "text": "Valeu a pena"
       }
     }
   },
@@ -115,8 +115,8 @@
         "type": "internal",
         "href": "#",
         "noFollow": true,
-        "tagTitle": "More",
-        "text": "More"
+        "tagTitle": "HC",
+        "text": "Valeu HC"
       }
     },
     "blocks": [
@@ -164,10 +164,10 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "/about-us",
+        "href": "https://acct.global/servicos/",
         "noFollow": true,
         "tagTitle": "About us",
-        "text": "About us"
+        "text": "Saiba mais sobre a gente"
       }
     }
   },
