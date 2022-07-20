@@ -80,9 +80,9 @@
     "props": {
       "title": "Logo",
       "href": "/",
-      "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo.png",
-      "width": "180",
-      "height": "12"
+      "url": "https://fase3lobao--speedware.myvtex.com/arquivos/logotipo-Speedware-new.png",
+      "width": "100",
+      "height": "85"
     }
   },
   "header-layout.mobile": {
@@ -125,7 +125,7 @@
     "props": {
       "title": "Logo",
       "href": "/",
-      "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo-mobile.png",
+      "url": "https://fase3lobao--speedware.myvtex.com/arquivos/logotipo-Speedware-new.png",
       "width": "77.5",
       "height": "27.5"
     }
