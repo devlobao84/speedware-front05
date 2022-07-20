@@ -18,10 +18,10 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "#",
+        "href": "https://reactjs.org/",
         "noFollow": false,
         "tagTitle": "News",
-        "text": "News"
+        "text": "Faça com React"
       }
     }
   },
@@ -33,10 +33,10 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "#",
+        "href": "https://www.javascript.com/",
         "noFollow": false,
         "tagTitle": "BlackFriday",
-        "text": "Black Friday"
+        "text": "Também com Javascript"
       }
     }
   },
@@ -48,10 +48,10 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "#",
+        "href": "https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-using-css-handles-for-store-customization",
         "noFollow": false,
         "tagTitle": "Sale",
-        "text": "Sale"
+        "text": "CSS Handles"
       }
     }
   },
