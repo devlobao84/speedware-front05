@@ -23,7 +23,7 @@
 }
 
 .flexRowContent--main-header {
-  background-color: #171717;
+  background-color: #171717 !important;
 }
 
 .flexRowContent--main-header-mobile {
@@ -95,4 +95,14 @@
 
 .flexRow--addToCartRow {
   padding-bottom: 1rem;
+}
+
+.flexColChild--ViewPointsGlobal {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+
+.flexRowContent--main-header-mobile {
+  background: #171717;
 }

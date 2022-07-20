@@ -111,3 +111,8 @@
 .image {
   image-rendering: -webkit-optimize-contrast;
 }
+
+.searchBarContainer {
+  display: flex !important;
+  align-items: center;
+}
