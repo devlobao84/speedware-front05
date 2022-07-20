@@ -25,7 +25,7 @@
   },
   "rich-text#deal1": {
     "props": {
-      "text": "Free shipping",
+      "text": "Fase 1",
       "blockClass": "deals"
     }
   },
@@ -43,7 +43,7 @@
   },
   "rich-text#deal2": {
     "props": {
-      "text": "One day delivery",
+      "text": "Fase 2",
       "blockClass": "deals"
     }
   },
@@ -61,7 +61,7 @@
   },
   "rich-text#deal3": {
     "props": {
-      "text": "Pick up in store",
+      "text": "Fase 3",
       "blockClass": "deals"
     }
   },
@@ -79,7 +79,7 @@
   },
   "rich-text#deal4": {
     "props": {
-      "text": "Exclusive deals",
+      "text": "Fase 4",
       "blockClass": "deals"
     }
   }

@@ -13,10 +13,10 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "#",
+        "href": "https://www.lebiscuit.com.br/",
         "noFollow": false,
-        "tagTitle": "Shop",
-        "text": "Shop"
+        "tagTitle": "loja física",
+        "text": "Loja física"
       }
     }
   },
@@ -33,10 +33,10 @@
       "highlight": false,
       "itemProps": {
         "type": "external",
-        "href": "http://vtex.com",
+        "href": "https://www.hiringcoders.com.br/",
         "noFollow": false,
-        "tagTitle": "visit vtex.com",
-        "text": "visit vtex.com"
+        "tagTitle": "visite o hiring coders",
+        "text": "visite o hiring coders"
       }
     }
   }

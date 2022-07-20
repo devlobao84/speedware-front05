@@ -58,11 +58,21 @@
       "flex-layout.col#logo-desktop",
       "flex-layout.col#category-menu",
       "flex-layout.col#spacer",
+      "flex-layout.col#view-points",
       "search-bar",
       "locale-switcher",
       "login",
       "minicart.v2"
     ]
+  },
+  "flex-layout.col#view-points": {
+    "children": [
+      "ViewPoints"
+    ],
+    "props": {
+      "blockClass": ["ViewPointsGlobal"],
+      "verticalAlign": "middle"
+    }
   },
   "flex-layout.col#logo-desktop": {
     "props": {
@@ -97,6 +107,7 @@
       "logo#mobile",
       "flex-layout.col#spacer",
       "login",
+      "flex-layout.col#view-points",
       "minicart.v2"
     ],
     "props": {
