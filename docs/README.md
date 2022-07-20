@@ -1,16 +1,13 @@
-# Não se assutem!!
-
-## Esse README será editado!1
-
+# Hiring Coders Fase 03!!
 
 ![logo-hiring-coders](https://github.com/diosneygomes/desafio-final-gama-academy-vtex/blob/main/logo-hiring-coders.png)
 
 ![logo-hiring-coders](https://github.com/devlobao84/front-speedeware05/blob/main/SPEED.png)
 
-# :desktop_computer: Desafio Final - Grupo 18 :trophy:
+# :desktop_computer: Desafio Final - Grupo 05 :trophy:
 
 Este repositório contém o conteúdo referente ao último desafio do programa <a href="https://www.hiringcoders.com.br/">Hiring coders</a>.
-Nele você encontrará todos os detalhes sobre a construção do projeto final feito pelo **Grupo 18**
+Nele você encontrará todos os detalhes sobre a construção do projeto final feito pelo **Grupo 05**
 
 # :notebook: Índice
 
@@ -23,43 +20,15 @@ Nele você encontrará todos os detalhes sobre a construção do projeto final f
 
 :pushpin: - [Equipe](#ancora4)
 
-<a id="ancora1"></a>
-# :open_book: Descrição do desafio
-
-O desafio consiste em construir 2 APIs **(VTEX IO API e AWS API Gateway)** e um projeto de front-end (React) baseado na identidade visual da <a href="https://www.corebiz.ag/pt/">Corebiz</a> e como critério opcional seria possível criar um item no adm do VTEX para trazer o conteúdo das leads cadastradas na API Gateway AWS.
-
-<a id="ancora2"></a>
-# :open_book: Sobre o projeto
-
-Para a construção da solução do projeto, criamos uma loja fictícia onde é colocado à venda serviços oferecidos pela empresa Corebiz. São eles;
-
-* **Accelerators**
-* **Começando ou fazendo upgrade do seu canal de vendas**
-* **Aumente a taxa de conversão**
-* **Marketing de Performance**
-* **Projetos OmniChannel**
-
-
-<a id="ancora3"></a>
-# :link: Links dos Projetos
-
-:ballot_box_with_check: <a href="https://github.com/devlobao84/oficial-desafio-corebiz.git">Projeto Front-End - React</a>
-
-:ballot_box_with_check: <a href="https://github.com/diosneygomes/desafio-final-api-vtex">Link do reposítorio do projeto API VTEX IO</a>
-
 
 <a id="ancora4"></a>
 # :1st_place_medal: Equipe
 
 :pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
-:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
+:pouting_man: Lucas Fiori - | <a href="https://www.linkedin.com/in/lucas-rodrigues-fiori-763326196/">Linkedin</a> | <a href ="https://github.com/lucasrfiori">Github</a> |
 
-:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
-
-:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
-
-:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
+:pouting_man: Victor Dandolini - | <a href="https://www.linkedin.com/in/victordandolini/">Linkedin</a> | <a href ="https://github.com/victordandolini">Github</a> |
 
 
 
